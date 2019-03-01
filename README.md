@@ -14,7 +14,7 @@ Also you can see different categories of pitches, another thing you can see is t
 | User can see the created pitches on the profile page | User should view different categories of pitches. | User can put comments in different categories of pitches.|
 
 ## Setup/Installation Requirements
-* Link to visit: 
+* git clone: https://github.com/Naimar1/Pitches.git
 * cd Pitches
 * code . (if you are using visual studio)
 * atom .
