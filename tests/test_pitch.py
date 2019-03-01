@@ -1,10 +1,11 @@
 import unittest
-from app.models import Pitch,User,Pitch
+from app.models import Comment,User,Pitch
 from app import db
 
-class PitchModelTest(unittest.TestCase):
 
+class PitchModelTest(unittest.TestCase):
     def setUp(self):
+
         self.new_pitch = Pitch(id = 1, pitch_title = 'Python', pitch_content = 'Programming language that helps to build application', category = 'courses pitches', like = 3, dislike = 0)
         
     def test_instance(self):
