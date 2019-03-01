@@ -1,5 +1,6 @@
 import unittest
-from app.models import Comment,User
+from app.models import Comment,User,Pitch
+from app import db
 
 class CommentModelTest(unittest.TestCase):
 
@@ -25,3 +26,4 @@ class CommentModelTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
