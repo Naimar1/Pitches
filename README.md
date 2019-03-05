@@ -19,6 +19,7 @@ Also you can see different categories of pitches, another thing you can see is t
 * code . (if you are using visual studio)
 * atom .
 * run : ./start.sh
+* link to visit: https://pitchproject.herokuapp.com/
 
 ## Known Bugs
 Hope that my codes is clear and understandable,
